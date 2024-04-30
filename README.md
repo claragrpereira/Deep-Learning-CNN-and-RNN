@@ -17,8 +17,8 @@ Utility functions for `hw2-q2.py`
 
 ## hw2-q2.py
 
-Contains skeleton code for Question 2, which covers image classification using CNNs, with implementation in torch.
+Contains code for Question 2, which covers image classification using CNNs, with implementation in torch.
 
 ## hw2-q3.ipynb
 
-Contains skeleton code for Question 3, which covers a sequence-to-sequence task using RNNs and attention, with implementation in torch. Using *google colab* or *kaggle* to run the notebook with GPU accelerators is advised.
+Contains code for Question 3, which covers a sequence-to-sequence task using RNNs and attention, with implementation in torch. Using *google colab* or *kaggle* to run the notebook with GPU accelerators is advised.

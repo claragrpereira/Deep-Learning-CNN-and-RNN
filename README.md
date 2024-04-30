@@ -1,6 +1,11 @@
 # Homework 2 - Skeleton Code
 
-This archive contains everything you need to complete Homework 2. It contains the following files:
+This project was a part of a machine learning course.
+This archive contains the following files:
+
+## statement.pdf
+
+The statement for the project, contains details about the CNN and RNN's architecture.
 
 ## download_octmnist.py
 
@@ -16,8 +21,4 @@ Contains skeleton code for Question 2, which covers image classification using C
 
 ## hw2-q3.ipynb
 
-Contains skeleton code for Question 3, which covers a sequence-to-sequence task using RNNs and attention, with implementation in torch. We suggest using *google colab* or *kaggle* to run the notebook with GPU accelerators.
-
-## how-to-use-kaggle-tutorial.md
-
-A simple tutorial on how to run the notebook `hw2-q3.ipynb` in kaggle.
+Contains skeleton code for Question 3, which covers a sequence-to-sequence task using RNNs and attention, with implementation in torch. Using *google colab* or *kaggle* to run the notebook with GPU accelerators is advised.
